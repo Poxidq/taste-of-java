@@ -1,8 +1,12 @@
-# Here I'm just tracking my Java progress
+# Here I'm just tracking my progress in learning Java
 
-## Spices:
+## Spices
+
 - Java - Руководство для начинающих (Герберт Шилдт)
 - ...
 
-## Checkpoints:
-- [ ] basics of java
+## Checkpoints
+
+1) - [x] Basics of java
+2) - [x] Familiarity with data types and operators
+3) - [] Control instructions
