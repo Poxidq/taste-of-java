@@ -9,4 +9,4 @@
 
 1) - [x] Basics of java
 2) - [x] Familiarity with data types and operators
-3) - [] Control instructions
+3) - [ ] Control instructions
